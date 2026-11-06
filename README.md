@@ -3,4 +3,4 @@
 ## Resume
 
 - https://www.linkedin.com/in/jaseidman/
-- [Download my resume]({{ site.baseurl }}/files/JonathanSeidman-Resume-TechWriter.pdf)
+- [Download my resume](/files/JonathanSeidman-Resume-TechWriter.pdf)
