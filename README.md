@@ -1,4 +1,4 @@
-# Jonathan Seidman, experienced technical writer, author, and documentation engineer
+# Writing samples
 
 I'm an experienced technical writer and author. My background spans decades in software, primarily as a developer, before transitioning into technical writing. This experience gives me the technical depth to understand and validate technical content, write clear, usable content for different audiences, write and test example code, and manage the documentation publishing toolchain. In addition to creating content, I've owned the information architecture, style, and editorial standards for sites that document rapidly evolving systems, and incorporated those standards into AI-assisted tooling that drafts and 
 reviews documentation and ensures it stays up to date with product changes.
