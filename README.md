@@ -15,7 +15,7 @@ Grepr acts as middleware between agents and observability platforms, so connecti
 
 However, the existing documentation for this feature was captured on a single page that lacked conceptual information, examples of configuring connections for the user's vendor and agents, requirements and limitations for each connection type, and other important details. To address the documentation gaps and help users quickly find relevant content, I converted the single page into a new section in the site navigation. This section includes an index page providing an overview of Grepr integrations, and a separate page for each integration type, such as vendor and storage integrations. To guide users, the table of contents entries for this section and the section's pages use descriptive, intent-driven labels, titles, and headings.
 
-The new section's index page, [Integrating Grepr with external systems](https://docs.grepr.ai/integrations/), provides a conceptual overview of integrations, guidance on using them, and links to dedicated pages for each supported integration.
+The new section's [index page](https://docs.grepr.ai/integrations/), provides a conceptual overview of integrations, guidance on using them, and links to dedicated pages for each supported integration.
 
 To create cleaner, easier-to-consume content for the integrations pages, I used the Nextra Tabs component, allowing users to click a tab instead of scrolling past irrelevant information. To remove duplicate content across pages, I used a shared React component that accepts arguments for values and images that differ by integration type. The [Configure Datadog connections with a Grepr integration](https://docs.grepr.ai/integrations/datadog/) page provides an example of tab and component usage.
 
