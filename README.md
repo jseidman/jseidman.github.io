@@ -42,6 +42,10 @@ I provided some guidance on the page's organization in the prompt, but left furt
 
 ## Databricks
 
+### Developer reference: Updating to a new API version
+
+The 2.1 release of the Jobs API added support for orchestrating multi-task jobs in addition to single-task jobs. Using this functionality required developers to modify clients or scripts that called a number of the API requests. The [Updating from Jobs API 2.0 to 2.1](https://docs.databricks.com/aws/en/reference/jobs-api-2-1-updates) page provides detailed guidance, including examples, for the updates required for each request.
+
 ### User guide: Using watermarks for stateful processing
 
 Processing large volumes of stateful streaming data with Spark, which is used by the Lakeflow pipelines framework, requires understanding how to use watermarks to manage state. The lack of detailed documentation for this feature led to customer support calls about pipeline failures. I wrote the [Optimize stateful processing with watermarks](https://docs.databricks.com/aws/en/ldp/stateful-processing) page to address this gap by detailing the recommended approach for processing streaming data with the Lakeflow pipelines framework on the Databricks platform. This page explains how to use watermarks and includes a range of examples for users to reference.
