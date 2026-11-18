@@ -1,12 +1,3 @@
----
-layout: post
-title: "Jonathan Seidman | Technical Writer"
-description: "Examples of my technical writing selected to demonstrate my ability to write clear, high-quality content across different documentation types."
-image: "https://github.io"
-url: "https://github.io"
-type: "website"
----
-
 # Writing samples
 
 I'm an experienced technical writer and author. My background spans decades in software, primarily as a developer, before transitioning into technical writing. This experience gives me the technical depth to understand and validate technical content, write clear, usable content for different audiences, write and test example code, and manage the documentation publishing toolchain. In addition to creating content, I've owned the information architecture, style, and editorial standards for sites that document rapidly evolving systems, and incorporated those standards into AI-assisted tooling that drafts and 
